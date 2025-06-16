@@ -105,5 +105,6 @@ Shout out to my fellow cohort members, Julian Elliot and Petal Smart for their h
 
 Thanks to the musical artists 'Underworld' for providing the perfect soundtrack for focussed study.
 
-
+### Note: Interactive Plotly charts do not display in GitHub's notebook preview due to JavaScript limitations.  
+> To view the visualisations, please download and run the notebook locally in Jupyter.
 
