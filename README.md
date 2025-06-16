@@ -108,3 +108,13 @@ Thanks to the musical artists 'Underworld' for providing the perfect soundtrack 
 ### Note: Interactive Plotly charts do not display in GitHub's notebook preview due to JavaScript limitations.  
 > To view the visualisations, please download and run the notebook locally in Jupyter.
 
+## Time Considerations
+Estimated Time for Project Completion:
+Day One = 7 Hours
+Day Two = 7 Hours
+
+Actual Time for Project Completion
+Day One = 8 Hours
+Day Two = 5 Hours
+
+Total Time = 13 Hours.
