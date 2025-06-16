@@ -28,18 +28,27 @@ Larger stores (Type A) generate the highest weekly sales, confirming that store 
 
 ## Rationale mapping business requirements to the Data Visualisations:
 ### Visualisation 1
-Explanation
+- **Purpose:** To evaluate whether markdown promotions are effective at increasing weekly sales across stores.
+- **Why Chosen:** A bar chart sorted by the correlation coefficient allows for a clear comparison across stores, highlighting where markdowns have the strongest or weakest effects.
+- **Insight Delivered:** Markdown effectiveness is limited and varies widely — only a few stores show a mild positive correlation.
+
 ### Visualisation 2
-Explanation
+- **Purpose:** To assess the impact of holiday periods on departmental sales.
+- **Why Chosen:** A grouped bar chart provides a side-by-side comparison that clearly illustrates which departments see uplift during holidays.
+- **Insight Delivered:** Department 72 (likely toys) shows a dramatic sales increase during holidays, with others like 5 and 7 showing modest boosts.
+
 ### Visualisation 3
-Explanation
+- **Purpose:** To confirm whether larger stores (Type A) generate more revenue on average.
+- **Why Chosen:** This Plotly chart fulfills the project’s requirement to include at least one interactive visual and offers a clean, engaging way to compare store types.
+- **Insight Delivered:** Type A stores lead in weekly sales revenue, confirming that store size correlates strongly with performance.
+
 ### Visualisation 4
 Explanation
 
 ## Analysis techniques used:
 
 - Extract Transform Load pipeline using Jupyter Notebooks
-- Visualisations: (List Here When Completed)
+- Visualisations: (See above)
 
 ## Technologies used:
 
